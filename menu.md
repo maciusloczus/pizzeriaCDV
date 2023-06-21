@@ -26,8 +26,7 @@
 |1. |Margeritha (sos pomidorowy, ser, oregano)                                       |             |20 zł  |40 zł  |50 zł  |
 |2. |Funghi (sos pomidorowy, ser, pieczarki,)                                        |             |22 zł  |42 zł  |52 zł  |
 |3. |Hawajska Vege (sos pomidorowy, ser, ananas)                                     |             |24 zł  |44 zł  |54 zł  |
-|3. |Salami (sos pomidorowy, ser mozarella, salami)                                  |             |23 zł  |43 zł  |53 zł  |
-|4. |Milano (sos pomidorowy, ser, papryka, oregano)                                  |             |25 zł  |45 zł  |55 zł  |
+|4. |Milano Vege (sos pomidorowy, ser, papryka, oregano)                             |             |25 zł  |45 zł  |55 zł  |
 |5. |Grecka (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                       |             |28 zł  |48 zł  |58 zł  |
 
 
