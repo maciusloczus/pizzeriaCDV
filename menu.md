@@ -70,6 +70,12 @@
 5. Tzatziki - 4 zł
 6. Majonezowy - 4 zł
 
+## Dodatki
+
+1. Cukinia - 5zł 
+2. Karczochy - 6zł
+3. Krewetki - 10 zł
+
 ## Napoje
 
 <img src = "pizzeria grafiki/melissa-walker-horn-gtDYwUIr9Vg-unsplash.jpg" width = 300>
