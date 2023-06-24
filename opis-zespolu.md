@@ -14,5 +14,7 @@ Filip Kantorowski
 
 ## Dostawca
 
+Adam Zieliński
+
 ## Grafik
 
