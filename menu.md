@@ -72,6 +72,8 @@
 
 ## Dodatki
 
+<img src = "pizzeria grafiki/am-fl-3cjbDO3QJJo-unsplash.jpg" width = 300>
+
 1. Cukinia - 5zł 
 2. Karczochy - 6zł
 3. Krewetki - 10 zł
