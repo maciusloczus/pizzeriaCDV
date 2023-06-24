@@ -18,3 +18,4 @@ Adam Zieliński
 
 ## Grafik
 
+Dokonana praca zespołu
