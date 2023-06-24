@@ -8,6 +8,8 @@ Tomasz Kowalski
 
 ## Kucharz
 
+Filip Kantorowski
+
 ## Obsługa
 
 ## Dostawca
